@@ -1,0 +1,84 @@
+body{
+	color: #666;
+	background: #9ef2f2;
+}
+header{
+	background: #8BC34A;
+	height: 64px;
+}
+.logo{
+	width: 152px;
+	padding: 10px;
+	padding-bottom: 10px
+	float: left;
+}
+nav ul{
+float: right;
+margin-right: 20px;
+}
+nav ul li{
+	display: inline-block;
+}
+nav ul li a{
+
+	padding: 10px;
+	color: white;
+	text-transform: uppercase;
+}
+.splash{
+	width: 100%;
+	height: 100vh;
+	background: url(../images/Fondo.png)center center fixed;
+	background-size: cover;
+}
+.espacios{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.centrado{
+	text-align: center;
+}
+.splash h1{
+	background: black;
+	color: whitesmoke;
+	font-size: 30px;
+	display: inline-block;
+	padding: 10px;
+}
+.text{
+	margin-top: 40vh;
+}
+.splash .btn{
+	background:#8BC34A;
+	color: white;
+}
+.content{
+	padding: 10px;
+}
+.card .btn{
+	float: right;
+}
+.card{
+	padding-bottom: 10px;
+}
+.h2{
+	font-style: Arial;
+}
+#letritas{
+	background: #f2f2f2;
+}
+#letritas i{
+	color:#65b6aa ;
+}
+.pintadito{
+	background: #999;
+	padding: 2px;
+	font-size: 30px;
+	color: white;
+}
+.frases i{
+	font-size: 100px;
+}
+.frases h2{
+	padding: 30px;
+}
